@@ -1,0 +1,3 @@
+# A Machine Learning and NLP Approach to Fake News Detection
+ 
+I led a pivotal project to combat the proliferation of fake news using advanced NLP techniques. The project entailed developing a classifier that could accurately distinguish between fake and genuine news articles. My role encompassed data preprocessing, feature extraction using TF-IDF vectorization, and training various machine learning models such as Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting. The models were rigorously evaluated for performance, ensuring high accuracy in classification.
